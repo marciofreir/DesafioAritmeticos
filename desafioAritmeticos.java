@@ -1,4 +1,4 @@
-package oii;
+package cursojava;
 
 public class desafioAritmeticos {
     public static void main(String[] args) {
